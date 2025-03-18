@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
-	printf("HELLO WORLD! WoW");
+	printf("Bem Vindo ao Laboratorio de Programacao 2!");
 
 	return 0;
 }
